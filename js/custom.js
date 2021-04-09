@@ -103,9 +103,6 @@ $(document).ready(function () {
 
     });
 
-    //animatedModal
-    // $("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
-
     // Contact Form 	
 
     // validate contact form
